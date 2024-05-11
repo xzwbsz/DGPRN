@@ -1,6 +1,7 @@
 # Guidance For Dynamic Graph Physical Residual Network
 
 This is the guidance for Dynamic Graph Physical Residual Network (DGPRN), a power model aimming to achieve accurate transition result between sea surface brightness temperature and sea surface wind, including wind speed and wind direction.
+![image](https://github.com/xzwbsz/DGPRN/assets/44642002/4566d6a1-9172-4f47-84bc-a48b24e8f246)
 
 ## Requirement
 
